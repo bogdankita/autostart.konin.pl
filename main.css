@@ -1,0 +1,18 @@
+A:link
+{ COLOR: #40a3bf; TEXT-DECORATION: none; }
+A:visited
+{ COLOR: #40a3bf; TEXT-DECORATION: none; }
+A:hover
+{ COLOR: #40a3bf; TEXT-DECORATION: underline; }
+P:not(.cc_message)
+{ COLOR: black; font-family:Verdana; font-size:12px; }
+td.back-left
+{ background-image: url(gfx-left.png); background-position: center; background-repeat: repeat-y; width:11px; }
+td.back-right
+{ background-image: url(gfx-right.png); background-position: center; background-repeat: repeat-y; width:11px; }
+td.back-up
+{ background-image: url(gfx-up.png); background-position: bottom; background-repeat: no-repeat; height:15px; }
+td.back-down
+{ background-image: url(gfx-down.png); background-position: top; background-repeat: no-repeat; height:15px; }
+img.photo
+{ margin-left:8px; margin-top:8px; border: 1px solid #000000 }
